@@ -23,6 +23,9 @@
     TODO remove this file when maven-site-plugin is a higher version than 3.0-beta-3
     and no longer depends on a SNAPSHOT of the maven-default-skin.
   -->
+  <!--
+    this is the demo for the Git 
+  -->
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-default-skin</artifactId>
